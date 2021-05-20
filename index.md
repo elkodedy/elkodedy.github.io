@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Me &mdash; Portofolio</title>
@@ -14,7 +13,7 @@
     <div class="badan">
     
     <!-- badan -->
-      <div class="name">Hi, i am Elko Dedy PratamaA</div>
+      <div class="name">Hi, i am Elko Dedy Pratama</div>
       <div class="sub_name">i am a junior prgrammer,<br>i develope some apps for fun, and of course help peoples develop their own app.</div>
       <div class="contact sub_name">
          interested with me? <a href="mailto:elkodedy.99@gmail.com" class="link">Contact Me</a> then!<br>or you can <a href="" class="link">Download My CV</a>.
