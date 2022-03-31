@@ -1,11 +1,11 @@
 
-markdown-body{
+.markdown-body{
   padding: 0 !important;
   margin: 0 !important;
 }
 
 h1 {
-  display: none;
+  display: none !important;
 }
 
 body{
