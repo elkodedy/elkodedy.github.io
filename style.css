@@ -58,8 +58,11 @@ body{
 .project{
     color:#fff;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 25px;
     margin: 100px 1vw;
+}
+.project-head{
+    font-size: 30px;
 }
 .project:hover{
     text-decoration: none;

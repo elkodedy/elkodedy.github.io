@@ -1,6 +1,6 @@
 <html lang="en">
   <head>
-    <title>Me &mdash; Portofolio</title>
+    <title>Elko Dedy Pratama &mdash; Portofolio</title>
     <meta charset="utf-8">
     <link rel="icon" href="logo.png" type="image/ico">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -22,44 +22,41 @@
       <!-- mywork -->
       <div class="mywork">This Is My Work&#128170&#128170&#128170</div>
       <div class="projects">
-        <!-- <a class="project" href="https://github.com/elkodedy/aksara">Aksara</a> 
-        <a class="project" href="https://github.com/elkodedy/visitkendari">Visit Kendari</a> 
-        <a class="project" href="https://github.com/elkodedy/visitkendari_2.0">Visit Kendari v.2</a> 
-        <a class="project" href="https://github.com/elkodedy/visitkendarimobile">Visit Kendari Mobile</a> 
-        <a class="project" href="https://github.com/elkodedy/guessnumbergame">Guess Number Game</a> 
+        <!-- 
+          <a class="project" href="https://github.com/elkodedy/visitkendari">Visit Kendari</a> 
+          <a class="project" href="https://github.com/elkodedy/visitkendarimobile">Visit Kendari Mobile</a> 
+          <a class="project" href="https://github.com/elkodedy/guessnumbergame">Guess Number Game</a> 
         <a class="project" href="https://github.com/elkodedy/cashier">Apotic Cashier</a> 
         <a class="project" href="https://github.com/elkodedy/irent">Irent</a> 
         <a class="project" href="https://github.com/elkodedy/antrian">Queue FIFO FILO</a> -->
-        <table>
-          <tr>
-            <td width="50%">
-              <span class="project">
-                Sulawesi Tenggara Web Profile
-              </span>
-              <ol>
-                <li><a class="project" href="https://inspektorat.sultraprov.go.id/">Inspektorat Sulawesi Tenggara</a></li>
-                <li><a class="project" href="https://bapenda.sultraprov.go.id/">Bapenda Sulawesi Tenggara</a></li>
-                <li><a class="project" href="https://diskominfo.sultraprov.go.id/">Diskominfo Sulawesi Tenggara</a></li>
-                <li><a class="project" href="https://dekranasda.sultraprov.go.id/">Dekranasda Sulawesi Tenggara</a></li>
-                <li><a class="project" href="https://organisasi.sultraprov.go.id/">Biro Organisasi Sulawesi Tenggara</a></li>
-                <li><a class="project" href="https://dinkes.sultraprov.go.id/">Dinkes Sulawesi Tenggara</a></li>
-              </ol>
-            </td>
-            <td>
-              <span class="project">
-                Other Project
-              </span>
-              <ol>
-                <li><a class="project" href="https://e-library.uho.ac.id/">E-Library Halu Oleo University</a></li>
-                <li><a class="project" href="http://parau.projectkoding.com/">Parau</a></li>
-                <li><a class="project" href="http://merapuku.id/">Merapuku</a></li>
-                <li><a class="project" href="https://conference-fpt-uho.id">ITAPS</a></li>
-                <li><a class="project" href="https://eboard-ptsp.projectkoding.com">Antrian DPMPTSP Baubau</a></li>
-                <li><a class="project" href="https://dataku.butontengahkab.go.id/">Dataku Buton Tengah</a></li>
-              </ol>
-            </td>
-          </tr>
-        </table>
+        
+        <p class="project project-head"  style="text-align: center; margin: 20px 0;">
+          Goverment's Web
+        </p>
+        <center>
+          <a class="project" href="https://inspektorat.sultraprov.go.id/">#Inspektorat Sulawesi Tenggara</a>
+          <a class="project" href="https://bapenda.sultraprov.go.id/">#Bapenda Sulawesi Tenggara</a><br>
+          <a class="project" href="https://diskominfo.sultraprov.go.id/">#Diskominfo Sulawesi Tenggara</a>
+          <a class="project" href="https://dekranasda.sultraprov.go.id/">#Dekranasda Sulawesi Tenggara</a><br>
+          <a class="project" href="https://organisasi.sultraprov.go.id/">#Biro Organisasi Sulawesi Tenggara</a>
+          <a class="project" href="https://dinkes.sultraprov.go.id/">#Dinkes Sulawesi Tenggara</a><br>
+          <a class="project" href="http://smart-office.projectkoding.com/">#Smart Office Kota Kendari</a>
+          <a class="project" href="http://simandara.online/">#Simandara Konawe</a><br>
+          <a class="project" href="https://antrian-dpmptsp.baubaukota.go.id/">#Antrian DPMPTSP Baubau</a>
+          <a class="project" href="https://dataku.butontengahkab.go.id/">#Dataku Buton Tengah</a>
+        </center>
+        
+        <p class="project project-head"  style="text-align: center; margin: 50px 0 20px 0;">
+          Other Projects
+        </p>
+        <center>
+          <a class="project" href="https://e-library.uho.ac.id/">#E-Library Halu Oleo University</a>
+          <a class="project" href="http://parau.projectkoding.com/">#Parau</a>
+          <a class="project" href="http://merapuku.id/">#Merapuku</a>
+          <a class="project" href="https://conference-fpt-uho.id">#ITAPS</a>
+        </center>
+        <!-- <a class="project" href="https://github.com/elkodedy/visitkendari_2.0">Visit Kendari</a> -->
+        <!-- <a class="project" href="https://github.com/elkodedy/aksara">Aksara</a> -->
       </div>
 
       <!-- findme -->
