@@ -14,22 +14,51 @@
     
     <!-- badan -->
       <div class="name">Hi, i am Elko Dedy Pratama</div>
-      <div class="sub_name">i am a junior prgrammer,<br>i develope some apps for fun, and of course help peoples develop their own app.</div>
+      <div class="sub_name">i am a Software Engineer,<br>i develope some apps for fun, and of course help peoples develop their own app.</div>
       <div class="contact sub_name">
-         interested with me? <a href="mailto:elkodedy.99@gmail.com" class="link">Contact Me</a> then!<br>or you can <a href="" class="link">Download My CV</a>.
+        interested with me? <a href="mailto:elkodedy.99@gmail.com" class="link">Contact Me</a> then!<br>or you can <a href="https://drive.google.com/file/d/1Tp4M-27FKohJnFfgyXHH09oWYbwxFVhA/view?usp=sharing" class="link">Download My CV</a>.
       </div>
 
       <!-- mywork -->
       <div class="mywork">This Is My Work</div>
       <div class="projects">
-        <a class="project" href="https://github.com/elkodedy/aksara">Aksara</a> 
+        <!-- <a class="project" href="https://github.com/elkodedy/aksara">Aksara</a> 
         <a class="project" href="https://github.com/elkodedy/visitkendari">Visit Kendari</a> 
         <a class="project" href="https://github.com/elkodedy/visitkendari_2.0">Visit Kendari v.2</a> 
         <a class="project" href="https://github.com/elkodedy/visitkendarimobile">Visit Kendari Mobile</a> 
         <a class="project" href="https://github.com/elkodedy/guessnumbergame">Guess Number Game</a> 
         <a class="project" href="https://github.com/elkodedy/cashier">Apotic Cashier</a> 
         <a class="project" href="https://github.com/elkodedy/irent">Irent</a> 
-        <a class="project" href="https://github.com/elkodedy/antrian">Queue FIFO FILO</a>
+        <a class="project" href="https://github.com/elkodedy/antrian">Queue FIFO FILO</a> -->
+        <table>
+          <tr>
+            <td width="60%">
+              <span class="project">
+                Sulawesi Tenggara Web Profile
+              </span>
+              <ol>
+                <li><a class="project" href="https://inspektorat.sultraprov.go.id/">Inspektorat Sulawesi Tenggara</a></li>
+                <li><a class="project" href="https://bapenda.sultraprov.go.id/">Bapenda Sulawesi Tenggara</a></li>
+                <li><a class="project" href="https://diskominfo.sultraprov.go.id/">Diskominfo Sulawesi Tenggara</a></li>
+                <li><a class="project" href="https://dekranasda.sultraprov.go.id/">Dekranasda Sulawesi Tenggara</a></li>
+                <li><a class="project" href="https://organisasi.sultraprov.go.id/">Biro Organisasi Sulawesi Tenggara</a></li>
+                <li><a class="project" href="https://dinkes.sultraprov.go.id/">Dinkes Sulawesi Tenggara</a></li>
+              </ol>
+            </td>
+            <td>
+              <span class="project">
+                Pther Project
+              </span>
+              <ol>
+                <li><a class="project" href="https://eboard-ptsp.projectkoding.com">Antrian DPMPTSP Baubau</a></li>
+                <li><a class="project" href="https://conference-fpt-uho.id">ITAPS</a></li>
+                <li><a class="project" href="http://merapuku.id/">Merapuku</a></li>
+                <li><a class="project" href="http://parau.projectkoding.com/">Parau</a></li>
+                <li><a class="project" href="https://dataku.butontengahkab.go.id/">Dataku Buton Tengah</a></li>
+              </ol>
+            </td>
+          </tr>
+        </table>
       </div>
 
       <!-- findme -->
@@ -46,7 +75,7 @@
       </div>
 
       <div class="copyright">
-        &copy;2021 &#9865; elkodedypratama
+        &copy;2022 &#9865; elkodedypratama
       </div>
 
     </div>
