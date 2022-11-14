@@ -13,14 +13,14 @@
     <div class="badan">
     
     <!-- badan -->
-      <div class="name">Hi, i am Elko Dedy Pratama</div>
-      <div class="sub_name">i am a Software Engineer,<br>i develope some apps for fun, and of course help peoples develop their own app.</div>
+      <div class="name">Hii&#128075, I'am Elko Dedy Pratama</div>
+      <div class="sub_name">i am a Software Engineer,<br>i develope some apps for fun&#128518, and of course help peoples develop their own app&#128521.</div>
       <div class="contact sub_name">
-        interested with me? <a href="mailto:elkodedy.99@gmail.com" class="link">Contact Me</a> then!<br>or you can <a href="https://drive.google.com/file/d/1Tp4M-27FKohJnFfgyXHH09oWYbwxFVhA/view?usp=sharing" class="link">Download My CV</a>.
+        interested with me? <a href="mailto:elkodedy.99@gmail.com" class="link">Contact Me</a> then!<br>or you can <a href="https://drive.google.com/file/d/1Tp4M-27FKohJnFfgyXHH09oWYbwxFVhA/view?usp=sharing" class="link">Download My CV</a>&#129321.
       </div>
 
       <!-- mywork -->
-      <div class="mywork">This Is My Work</div>
+      <div class="mywork">This Is My Work&#128170&#128170&#128170</div>
       <div class="projects">
         <!-- <a class="project" href="https://github.com/elkodedy/aksara">Aksara</a> 
         <a class="project" href="https://github.com/elkodedy/visitkendari">Visit Kendari</a> 
@@ -32,7 +32,7 @@
         <a class="project" href="https://github.com/elkodedy/antrian">Queue FIFO FILO</a> -->
         <table>
           <tr>
-            <td width="60%">
+            <td width="50%">
               <span class="project">
                 Sulawesi Tenggara Web Profile
               </span>
@@ -47,13 +47,14 @@
             </td>
             <td>
               <span class="project">
-                Pther Project
+                Other Project
               </span>
               <ol>
-                <li><a class="project" href="https://eboard-ptsp.projectkoding.com">Antrian DPMPTSP Baubau</a></li>
-                <li><a class="project" href="https://conference-fpt-uho.id">ITAPS</a></li>
-                <li><a class="project" href="http://merapuku.id/">Merapuku</a></li>
+                <li><a class="project" href="https://e-library.uho.ac.id/">E-Library Halu Oleo University</a></li>
                 <li><a class="project" href="http://parau.projectkoding.com/">Parau</a></li>
+                <li><a class="project" href="http://merapuku.id/">Merapuku</a></li>
+                <li><a class="project" href="https://conference-fpt-uho.id">ITAPS</a></li>
+                <li><a class="project" href="https://eboard-ptsp.projectkoding.com">Antrian DPMPTSP Baubau</a></li>
                 <li><a class="project" href="https://dataku.butontengahkab.go.id/">Dataku Buton Tengah</a></li>
               </ol>
             </td>
